@@ -1,2 +1,2 @@
 # Relly-Moderasyon
-Ekiplere Özel Eski Moderasyon botum
+Ekiplere Özel Kullandığım Eski Moderasyon Botum
